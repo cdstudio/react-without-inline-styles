@@ -4,7 +4,7 @@ It's a misconception.
 
 ## What are inline styles?
 
-Inline styles are CSS styles written in javascript and added directly to a React Component. This trend started with this presentation: [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js) and started spreading with introduction of [Radium](https://github.com/FormidableLabs/radium), which in fact tries to solve issues that appear when you start using inline styles. There is [a talk by Michael Chan](https://www.youtube.com/watch?v=ERB1TJBn32c) on why it's cool and (just a little) why it's not.
+Inline styles are CSS styles written in javascript and added directly to a React Component. This trend started with the presentation [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js) and began spreading with introduction of [Radium](https://github.com/FormidableLabs/radium), which in fact tries to solve issues that appear when you start using inline styles. There is [a talk by Michael Chan](https://www.youtube.com/watch?v=ERB1TJBn32c) on why it's cool and (just a little) why it's not.
 
 ## Ok, what's wrong?
 
