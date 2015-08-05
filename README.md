@@ -25,5 +25,5 @@ Using extrnal named styles just eliminates such issues from the very beginning. 
 
 With webpack we can use not only CSS, but all those cool preprocessors like SASS, LESS, Stylus etc... [CSS-next](http://cssnext.io/) is my favorite. The coolest thing is that we can use all of them in a single project
 
-  This manifesto was born from discussion on gaearon/redux-devtools#37 
+  This manifesto was born from discussion on [gaearon/redux-devtools#37](https://github.com/gaearon/redux-devtools/issues/37)
   Please let me know if anyone already pointed some or all of this ideas elsewhere (I'm sure there should be such places).
