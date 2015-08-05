@@ -1,4 +1,4 @@
-# Please stop using inline styles in React components
+# Please stop using inline styles in [React](https://facebook.github.io/react/) components
 
 It's a misconception.
 
